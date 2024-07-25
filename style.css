@@ -1,0 +1,24 @@
+body {
+  background: rgb(255, 226, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 226, 0, 1) 0%,
+    rgba(250, 249, 246, 1) 0%,
+    rgba(29, 29, 29, 1) 100%
+  );
+}
+
+.cardClass {
+  width: 30rem;
+  height: 22rem;
+}
+
+.cardHeader {
+    background: rgb(46, 46, 46);
+    color: white
+}
+
+.cardBody {
+    background: rgb(111, 99, 113);
+    color: white;
+}
